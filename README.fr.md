@@ -15,7 +15,7 @@ Commit: Modification apportée à un repository.<br>
 Pull request: Demande de commit dans le repo d'un autre qui doit être acceptée par l'une des personne(s) contrôlant ce dernier.
 
 ## A savoir
-La plupart des repositories sur github ont une section dans leur README ou un fichier CONTRIBUTING pour donner des indications sur comment participer à CE projet là en particulier. Mon tutoriel n'a pour objectif que de vous montrer quels sont et où sont les outils il ne remplace en aucun cas les textes précédemment mentionnés.
+La plupart des repositories sur github ont une section dans leur README ou un fichier CONTRIBUTING pour donner des indications sur comment participer à CE projet là en particulier. Mon tutoriel n'a pour objectif que de vous montrer quels sont et où sont les outils, il ne remplace en aucun cas les textes précédemment mentionnés.
 
 ## Tutoriel
 

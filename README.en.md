@@ -7,61 +7,59 @@
 - [Last update](https://github.com/reza0310/HowToContribute/blob/master/README.en.md#last-update)
 
 ## Vocabulary
-Git: Programme sur lequel se base le site web github.<br>
-Repository (repositories au pluriel, repo pour raccourcir): Projet, lieu où l'on peut déposer ses fichiers, son code.<br>
-Fork: Copie du repository d'un autre intimement reliée à l'original sur votre propre profil.<br>
-Issue: Problème signalable dans l'onglet homonyme.<br>
-Commit: Modification apportée à un repository.<br>
-Pull request: Demande de commit dans le repo d'un autre qui doit être acceptée par l'une des personne(s) contrôlant ce dernier.
+Git: Program behind github.com's website<br>
+Repository (plural: repositories, sgortcut: repo): Project, place where we upload our files, our code.<br>
+Fork: Someone else's repository local copy. Linked to the original.<br>
+Commit: Modifications for a repository.<br>
+Pull request: Request to commit on someone else's repo. Must be approuved by the author to take place.
 
 ## Good to know
-La plupart des repositories sur github ont une section dans leur README ou un fichier CONTRIBUTING pour donner des indications sur comment participer à CE projet là en particulier. Mon tutoriel n'a pour objectif que de vous montrer quels sont et où sont les outils il ne remplace en aucun cas les textes précédemment mentionnés.
+Most of github's repositories have a part of their README or a file named CONTRIBUTING to give indications on the way to contibute to THIS particular repository. My tutorial doesn't aim at replacing these texts my only goal here is to show you what tools exist and where to find them.
 
 ## Tutorial
 
-1) Ouvrir une issue (optionnel car il est possible de prendre des issues déjà ouvertes ou même juste de faire sans)
+1) Open an issue (optionnal because you actually can use already opened issues or just don't link your contribution to an issue)
 
-![Image illustrant l'étape 1](https://github.com/reza0310/HowToContribute/blob/master/1.jpg)
-
-<br><br><br>
-2) Faire une fork
-
-![Image illustrant l'étape 2](https://github.com/reza0310/HowToContribute/blob/master/2.jpg)
+![Image illustrating step 1](https://github.com/reza0310/HowToContribute/blob/master/1.jpg)
 
 <br><br><br>
-3) Faire vos commits dans votre fork
+2) Fork the original repository
 
-![Image illustrant l'étape 3](https://github.com/reza0310/HowToContribute/blob/master/3.jpg)
-
-<br><br><br>
-4) Ouvrir une pull request dans le projet de base
-
-![Image illustrant l'étape 4](https://github.com/reza0310/HowToContribute/blob/master/4.jpg)
+![Image illustrating step 2](https://github.com/reza0310/HowToContribute/blob/master/2.jpg)
 
 <br><br><br>
-5) Cliquer sur le bouton bleu "compare across forks"
+3) Do whatever upgrade you want on your own fork
 
-![Image illustrant l'étape 5](https://github.com/reza0310/HowToContribute/blob/master/5.jpg)
-
-<br><br><br>
-6) Sélectionner votre fork comme élément de droite de la comparaison
-
-![Image illustrant l'étape 6](https://github.com/reza0310/HowToContribute/blob/master/6.jpg)
+![Image illustrating step 3](https://github.com/reza0310/HowToContribute/blob/master/3.jpg)
 
 <br><br><br>
-7) Créer la pull request
+4) Open a pull request on the original repository
 
-![Image illustrant l'étape 7](https://github.com/reza0310/HowToContribute/blob/master/7.jpg)
-
-<br><br><br>
-8) Ajouter la référence au problème (optionnel)
-
-![Image illustrant l'étape 8](https://github.com/reza0310/HowToContribute/blob/master/8.jpg)
+![Image illustrating step 4](https://github.com/reza0310/HowToContribute/blob/master/4.jpg)
 
 <br><br><br>
-9) Envoyer et attendre que l'auteur accepte et éventuellement utiliser la section "commentaires" pour en discuter
+5) Click on the blue button saying "compare across forks"
 
-![Image illustrant l'étape 9](https://github.com/reza0310/HowToContribute/blob/master/9.jpg)
+![Image illustrating step 5](https://github.com/reza0310/HowToContribute/blob/master/5.jpg)
+
+<br><br><br>
+6) Select your fork the right comparison's element
+![Image illustrating step 6](https://github.com/reza0310/HowToContribute/blob/master/6.jpg)
+
+<br><br><br>
+7) Create the pull request
+
+![Image illustrating step 7](https://github.com/reza0310/HowToContribute/blob/master/7.jpg)
+
+<br><br><br>
+8) Reference the issue (optionnal)
+
+![Image illustrating step 8](https://github.com/reza0310/HowToContribute/blob/master/8.jpg)
+
+<br><br><br>
+9) Send it and wait for the author to accept. You can use the "commentary" section to discuss the hows and whys of your changes.
+
+![Image illustrating step 9](https://github.com/reza0310/HowToContribute/blob/master/9.jpg)
 
 ## Last update
-Friday 18th february 2022
+Saturday 19th february 2022

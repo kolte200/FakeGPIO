@@ -1,6 +1,6 @@
 # Ce repository a pour objectif de réunir quelque tutoriels qui pourront m'être utile à référencer dans les documentations de mes autres repos.
 
-Pour tout mes tutoriels, je vais partir du principe que vous savez utiliser un ordinateur mais ne savez rien à propos de la programmation. Si vous avez besoin d'une aide quelconque, [contactez moi](https://github.com/reza0310).
+Pour tout mes tutoriels, je vais partir du principe que vous savez utiliser un ordinateur mais ne savez rien à propos de la programmation. Si vous avez besoin d'une quelconque aide supplémentaire, [contactez moi](https://github.com/reza0310).
 
 ## Mes tutoriels:
 - [Comment contribuer à un projet sur github?](https://github.com/reza0310/Tutorials/blob/contribute/README.fr.md)

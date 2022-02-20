@@ -7,7 +7,7 @@
 - [Last update](https://github.com/reza0310/Tutorials/blob/python/README.en.md#last-update)
 
 ## Vocabulary
-IDLE: Python's Integrated DeveLopment Environment. Whereas a bunch of similar softwares uses the acronym "IDE", Python uses IDLE. Might be a reference to Eric Idle from the Monty Python.
+IDLE: Python's Integrated DeveLopment Environment. Whereas a bunch of similar softwares uses the acronym "IDE", Python uses IDLE. Might be a reference to Eric Idle from the Monty Python.<br>
 PIP: Is a package manager for Python. It is used to easily download and install open source packages from the PyPI (= Python Package Index) repository.
 
 ## Good to know
@@ -55,7 +55,7 @@ There is a bunch of ways to make and execute Python code. If you have your own, 
 ![Image illustrating step 9](https://github.com/reza0310/Tutorials/blob/python/7.PNG)
 
 <br><br><br>
-10) For any "ModuleNotFoundError", take the module name (wich is written at the end of the line), open a command prompt and type "pip install \[module name]" to install this module and make the error disappear. If the pip command fail, try replacing and point in your module name with a comma and if it still fails, try searching it out on Internet.
+10) For any "ModuleNotFoundError", take the module name (wich is written at the end of the line), open a command prompt and type "pip install \[module name]" to install this module and make the error disappear. If the pip command fail, try replacing every point in your module's name with underscores and if it still fails, try searching how to install this one mofule on the web.
 
 ![Image illustrating step 10](https://github.com/reza0310/Tutorials/blob/python/8.PNG)
 

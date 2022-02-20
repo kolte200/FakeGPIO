@@ -7,8 +7,8 @@
 - [Dernière modification](https://github.com/reza0310/Tutorials/blob/python/README.fr.md#derni%C3%A8re-modification)
 
 ## Vocabulaire
-IDLE: Environnement de développement intégré à Python. Là où beaucoup de logiciels similaires utilisent l'acronyme "IDE", Python utilise IDLE probablement en référence à Eric Idle, membre fondateur des Monty Python.
-PIP: Est un gestionnaire de packets pour Python. Il est utilisé pour télécharger et installer facilement des packets/bibliothèques/extensions open source depuis le dépôt PyPI (= Python Package Index).
+IDLE: Environnement de développement intégré à Python. Là où beaucoup de logiciels similaires utilisent l'acronyme "IDE", Python utilise IDLE probablement en référence à Eric Idle, membre fondateur des Monty Python.<br>
+PIP: Est un gestionnaire de packets pour Python. Il est utilisé pour télécharger et installer facilement des packets/bibliothèques/extensions open source depuis le dépôt PyPI (= Python Package Index).<br>
 Path: Chemin d'un fichier de la forme "C:\Users\[nom d'utilisateur]\Desktop" pour un bureau windows en chemin absolu ou "dossier/fichier.txt" pour un fichier nommé "fichier.txt" dans le dossier "dossier" situé au même endroit que vous en chemin relatif par exemple.
 
 ## A savoir

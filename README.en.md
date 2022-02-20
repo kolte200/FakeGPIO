@@ -7,9 +7,11 @@
 - [Last update](https://github.com/reza0310/Tutorials/blob/python/README.en.md#last-update)
 
 ## Vocabulary
+IDLE: Python's Integrated DeveLopment Environment. Whereas a bunch of similar softwares uses the acronym "IDE", Python uses IDLE. Might be a reference to Eric Idle from the Monty Python.
+PIP: Is a package manager for Python. It is used to easily download and install open source packages from the PyPI (= Python Package Index) repository.
 
 ## Good to know
-There is a bunch of ways to make and execute Python code. If you have your own, this tutorial might be useless for you but if not you will learn the simplest way to do so using Python's Integrated DeveLopment Environment (Called IDLE by Python even if a bunch of similar softwares use the term IDE. Might be a reference to Eric Idle.) and pip for installing new packages.
+There is a bunch of ways to make and execute Python code. If you have your own, this tutorial might be useless for you but if not you will learn the simplest way to do so using IDLE and pip for installing new packages.
 
 ## Tutorial
 1) Download Python from the [official website](https://www.python.org/downloads/).

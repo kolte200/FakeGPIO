@@ -38,7 +38,7 @@ There is a bunch of ways to make and execute Python code. If you have your own, 
 6) Now, you can download the python project you want to execute. To do so, go to the project's github page and click on the green "Code" button and then click "Download ZIP" and unzip the file. If the file contain multiple scripts, to know wich one to execute try to find an explanation in the docs and if there is no such explanation, try to execute a script called "main", "index" or something like that. For my demonstration, I used my own [random pixels project](https://github.com/reza0310/random_pixels).
 
 <br><br><br>
-7) To execute your newly acquired script with python, you can do so from the command prompt by typing "python \[absolute / relative path to your script]" or double-click on it but this last method will open you a command prompt wich will close whenever the script end or raise an error. To be able to see your script's results or problems, you're gonna need an IDE as IDLE. To open a scipt with IDLE, just right-click it and select "Edit with IDLE".
+7) To execute your newly acquired script with python, you can do so from the command prompt by typing "python \[absolute / relative path to your script]" (hard method) or just double-click on it but this last method will open you a command prompt wich will close whenever the script end or raise an error. To be able to see your script's results or problems and manipulate it easily, you're gonna need an IDE such as IDLE or Pycharm. To open a scipt with IDLE, just right-click it and select "Edit with IDLE".
 
 ![Image illustrating step 7](https://github.com/reza0310/Tutorials/blob/python/5.PNG)
 
